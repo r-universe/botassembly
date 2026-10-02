@@ -1,5 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/botassembly/botassembly.r-universe.dev
 	branch = HEAD
+[submodule "thinkthen"]
+	path = thinkthen
+	url = https://github.com/botassembly/thinkthen
+	branch = *release
+	subdir = libraries/r/thinkthen
