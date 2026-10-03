@@ -5,5 +5,5 @@
 [submodule "thinkthen"]
 	path = thinkthen
 	url = https://github.com/botassembly/thinkthen
-	branch = v0.1.1
+	branch = v0.1.2
 	subdir = libraries/r/thinkthen
