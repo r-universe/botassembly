@@ -5,5 +5,5 @@
 [submodule "thinkthen"]
 	path = thinkthen
 	url = https://github.com/botassembly/thinkthen
-	branch = v0.2.0
+	branch = v0.2.0-registry-recovery.1
 	subdir = sdk/r
